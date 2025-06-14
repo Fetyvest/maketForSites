@@ -1,0 +1,37 @@
+.pattern6 {
+    margin-top: 50px;
+}
+
+.pattern6__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.pattern6__title {
+    font-size: 40px;
+    font-weight: 1000;
+    text-align: center;
+}
+
+.pattern6__block {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px 15px;
+}
+
+.pattern6__img {
+    width: 300px;
+    height: 400px;
+    background-color: darksalmon;
+    box-shadow: 3px 3px 5px gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+}

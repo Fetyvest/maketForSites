@@ -1,0 +1,16 @@
+.separator {
+    height: 200px;
+    background-color: black;
+}
+
+.separator__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.separator__title {
+    font-size: 20px;
+    color: white;
+}

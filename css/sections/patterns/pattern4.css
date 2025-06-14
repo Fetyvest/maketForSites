@@ -1,0 +1,45 @@
+.pattern4 {
+    margin-top: 50px;
+}
+
+.pattern4__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pattern4__text {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pattern4__title {
+    font-weight: 1000;
+    font-size: 40px;
+    text-align: center;
+}
+
+.pattern4__desc {
+    margin-top: 10px;
+    width: 50%;
+}
+
+.pattern4__btn {
+    padding: 10px 15px;
+}
+
+@media (max-width: 500px) {
+    .pattern4__text {
+        flex-direction: column;
+        justify-content: center;
+        row-gap: 10px;
+        text-align: center;
+    }
+
+    .pattern4__desc {
+        width: 100%;
+    }
+}

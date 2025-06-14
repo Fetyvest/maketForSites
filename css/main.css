@@ -1,0 +1,13 @@
+@import url(ZeroStyleFet.css);
+@import url(basic.css);
+@import url(sections/header.css);
+@import url(sections/greetings.css);
+@import url(sections/separator.css);
+@import url(sections/patterns/pattern1.css);
+@import url(sections/patterns/pattern2.css);
+@import url(sections/patterns/pattern3.css);
+@import url(sections/patterns/pattern4.css);
+@import url(sections/patterns/pattern5.css);
+@import url(sections/patterns/pattern6.css);
+@import url(sections/patterns/pattern7.css);
+@import url(sections/footer.css);

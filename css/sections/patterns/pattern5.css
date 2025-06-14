@@ -1,0 +1,32 @@
+.pattern5 {
+    margin-top: 50px;
+}
+
+.pattern5__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 10px;
+}
+
+.pattern5__title {
+    text-align: center;
+    font-weight: 1000;
+    font-size: 40px;
+}
+
+.pattern5__block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    row-gap: 5px;
+}
+
+/* .pattern5__text {} */
+
+.pattern5__btn {
+    padding: 10px 20px;
+}
